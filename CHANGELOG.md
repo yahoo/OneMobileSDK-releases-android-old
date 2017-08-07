@@ -1,4 +1,4 @@
-Release Notes
+# Release Notes
 
 ## [2.12](https://github.com/vidible/mobile-sdk-android/tree/2.12) (2017-08-03)
 
