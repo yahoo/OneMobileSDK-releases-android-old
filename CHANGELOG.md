@@ -1,5 +1,38 @@
 # Release Notes
 
+## [2.13](https://github.com/vidible/mobile-sdk-android/tree/2.13) (2017-08-22)
+**Closed issues:**
+
+- Supporting offline video playback with ads \[shark-client\] [\#395](https://github.com/vidible/mobile-sdk-android/issues/395)
+
+
+
+- m.fwsitesection param is missed in heartbeat.gif [\#476](https://github.com/vidible/mobile-sdk-android/pull/476)
+- Remove pct param from video-time.gif for livestream videos [\#475](https://github.com/vidible/mobile-sdk-android/pull/475)
+- Disable qoe pixels for upcoming release [\#474](https://github.com/vidible/mobile-sdk-android/pull/474)
+- Fix 3 sec pixel for live video [\#473](https://github.com/vidible/mobile-sdk-android/pull/473)
+- Add QoE params to 3-sec tracking pixel [\#472](https://github.com/vidible/mobile-sdk-android/pull/472)
+- QoE url, it, cvt params update [\#471](https://github.com/vidible/mobile-sdk-android/pull/471)
+- Added vcdn parameter to heartbeat pixel [\#470](https://github.com/vidible/mobile-sdk-android/pull/470)
+- Extra renderer check [\#469](https://github.com/vidible/mobile-sdk-android/pull/469)
+- Added bit parameter to heartbeat pixel [\#468](https://github.com/vidible/mobile-sdk-android/pull/468)
+- Javascript telemetry [\#467](https://github.com/vidible/mobile-sdk-android/pull/467)
+- Tracking base url changes [\#466](https://github.com/vidible/mobile-sdk-android/pull/466)
+- Create QoE Tracking Pixel Start [\#465](https://github.com/vidible/mobile-sdk-android/pull/465)
+- Create QoE Tracking Pixel Intent [\#464](https://github.com/vidible/mobile-sdk-android/pull/464)
+- Duktape disposal on video session end [\#463](https://github.com/vidible/mobile-sdk-android/pull/463)
+- Add 'bft' param into heartbeat.gif tracker [\#462](https://github.com/vidible/mobile-sdk-android/pull/462)
+- OMSDK-120 Tracking params fix [\#461](https://github.com/vidible/mobile-sdk-android/pull/461)
+- Optimize JS handling [\#460](https://github.com/vidible/mobile-sdk-android/pull/460)
+- Implement js tracking plugin [\#459](https://github.com/vidible/mobile-sdk-android/pull/459)
+- Create QoE Tracking Pixel Buffer End - Android [\#458](https://github.com/vidible/mobile-sdk-android/pull/458)
+- Create QoE Tracking Pixel Buffer Start - Android [\#457](https://github.com/vidible/mobile-sdk-android/pull/457)
+- Adopt ms response for js tracking [\#456](https://github.com/vidible/mobile-sdk-android/pull/456)
+- Implement heartbeat pixel for live tracking - Android [\#455](https://github.com/vidible/mobile-sdk-android/pull/455)
+- Change log generator script [\#454](https://github.com/vidible/mobile-sdk-android/pull/454)
+- OMSDK-45 Add parsing for the new Config/Video services response formats [\#450](https://github.com/vidible/mobile-sdk-android/pull/450)
+- OMSDK-52 Update pct and t params format [\#449](https://github.com/vidible/mobile-sdk-android/pull/449)
+
 ## [2.12](https://github.com/vidible/mobile-sdk-android/tree/2.12) (2017-08-03)
 
 
