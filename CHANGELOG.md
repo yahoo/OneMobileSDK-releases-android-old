@@ -1,5 +1,14 @@
 # Release Notes
 
+## [2.14](https://github.com/vidible/mobile-sdk-android/tree/2.14) (2017-09-05)
+
+
+- Added volume param to 3sec and heartbeat trackers [\#481](https://github.com/vidible/mobile-sdk-android/pull/481)
+- Added apid param to 3sec and heartbeat trackers [\#480](https://github.com/vidible/mobile-sdk-android/pull/480)
+- Track selection support [\#479](https://github.com/vidible/mobile-sdk-android/pull/479)
+- Fixed data type for bit, bft, cvt and t params in 3sec and heartbeat … [\#478](https://github.com/vidible/mobile-sdk-android/pull/478)
+- video-time.gif is fired even if content playback was not started [\#477](https://github.com/vidible/mobile-sdk-android/pull/477)
+
 ## [2.13](https://github.com/vidible/mobile-sdk-android/tree/2.13) (2017-08-22)
 **Closed issues:**
 
