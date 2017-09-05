@@ -3,7 +3,7 @@
   <groupId>com.aol.one.publishers.android</groupId>
   <artifactId>controls</artifactId>
   <versioning>
-    <release>1.8</release>
+    <release>1.9</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -18,7 +18,8 @@
       <version>1.8-alpha</version>
       <version>1.8-beta</version>
       <version>1.8</version>
+      <version>1.9</version>
     </versions>
-    <lastUpdated>20170803145904</lastUpdated>
+    <lastUpdated>20170905133456</lastUpdated>
   </versioning>
 </metadata>
