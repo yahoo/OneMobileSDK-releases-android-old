@@ -1,5 +1,10 @@
 # Release Notes
 
+## [2.14.1](https://github.com/vidible/mobile-sdk-android/tree/2.14.1) (2017-09-12)
+
+
+- Update renderer version to 2.6.1 [\#484](https://github.com/vidible/mobile-sdk-android/pull/484)
+
 ## [2.14](https://github.com/vidible/mobile-sdk-android/tree/2.14) (2017-09-05)
 
 
