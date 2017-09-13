@@ -1,5 +1,12 @@
 # Release Notes
 
+## [2.14.2](https://github.com/vidible/mobile-sdk-android/tree/2.14.2) (2017-09-13)
+
+
+- NPE on track switching [\#485](https://github.com/vidible/mobile-sdk-android/pull/485)
+- Group audio tracks by language [\#483](https://github.com/vidible/mobile-sdk-android/pull/483)
+- Added LIVE label to livestream videos [\#482](https://github.com/vidible/mobile-sdk-android/pull/482)
+
 ## [2.14.1](https://github.com/vidible/mobile-sdk-android/tree/2.14.1) (2017-09-12)
 
 
