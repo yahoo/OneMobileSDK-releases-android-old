@@ -1,5 +1,14 @@
 # Release Notes
 
+## [2.15](https://github.com/vidible/mobile-sdk-android/tree/2.15) (2017-09-19)
+
+
+- Tests ignorance [\#491](https://github.com/vidible/mobile-sdk-android/pull/491)
+- Tracking detectors update [\#490](https://github.com/vidible/mobile-sdk-android/pull/490)
+- SDK update for new tracking context [\#489](https://github.com/vidible/mobile-sdk-android/pull/489)
+- Tracking flow update [\#488](https://github.com/vidible/mobile-sdk-android/pull/488)
+- Tracking context from video service parsing [\#487](https://github.com/vidible/mobile-sdk-android/pull/487)
+
 ## [2.14.2](https://github.com/vidible/mobile-sdk-android/tree/2.14.2) (2017-09-13)
 
 
