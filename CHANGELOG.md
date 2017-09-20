@@ -5,6 +5,7 @@
 
 - Update renderer version to 2.6.4 and controls version to 1.10 +(Exopla… [\#492](https://github.com/vidible/mobile-sdk-android/pull/492)
 - (and ExoPlayer to 2.5.2)
+- Renderer update includes automatic reconnection attemps if live stream disconnects
 
 ## [2.15](https://github.com/vidible/mobile-sdk-android/tree/2.15) (2017-09-19)
 
