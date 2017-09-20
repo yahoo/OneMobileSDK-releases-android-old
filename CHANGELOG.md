@@ -1,5 +1,10 @@
 # Release Notes
 
+## [2.16](https://github.com/vidible/mobile-sdk-android/tree/2.16) (2017-09-20)
+
+
+- Update renderer version to 2.6.4 and controls version to 1.10 \(Exopla… [\#492](https://github.com/vidible/mobile-sdk-android/pull/492)
+
 ## [2.15](https://github.com/vidible/mobile-sdk-android/tree/2.15) (2017-09-19)
 
 
