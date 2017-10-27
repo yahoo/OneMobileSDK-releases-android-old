@@ -279,3 +279,43 @@ then set your custom `ControlsFeedbackHandler` to `Binder`
 ```java
 binder.setFeedbackHandler(new MyDefaultFeedbackHandler());
 ```
+
+### Chromecast support
+
+```gradle
+dependencies {
+    // ...
+
+    // Chromecast
+    compile 'com.aol.one.publishers.android:chromecast:1.0'
+
+    // ...   
+}
+```
+
+Add meta-data with castId of application to Manifest.xml
+(https://developers.google.com/cast/docs/registration)
+
+```xml
+<manifest>
+    <application>
+      <!-- ...-->
+        <meta-data
+            android:name="com.aol.mobile.sdk.chromecast.ReceiverApplicationId"
+            android:value="appCastId" />
+    </application>
+</manifest>
+```
+
+Add chromecast button in onCreate method
+
+```java
+View castButton = OneCastButtonFactory.getCastButton(context);
+playerView.getContentControls().setCastButton(castButton);
+```
+
+Add chromecast listener after creation of player
+
+```java
+OneCastButtonFactory.addCastButtonListener(context, new OneCastListener(player));
+```
