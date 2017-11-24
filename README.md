@@ -306,16 +306,3 @@ Add meta-data with castId of application to Manifest.xml
     </application>
 </manifest>
 ```
-
-Add chromecast button in onCreate method
-
-```java
-View castButton = OneCastButtonFactory.getCastButton(context);
-playerView.getContentControls().setCastButton(castButton);
-```
-
-Add chromecast listener after creation of player
-
-```java
-OneCastButtonFactory.addCastButtonListener(context, new OneCastListener(player));
-```
